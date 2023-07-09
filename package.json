@@ -1,0 +1,15 @@
+{
+  "name": "clams-qr",
+  "module": "index.ts",
+  "type": "module",
+  "version": "0.0.1",
+  "devDependencies": {
+    "@types/node": "^20.4.1"
+  },
+  "dependencies": {
+    "@loskir/styled-qr-code-node": "^1.5.1"
+  },
+  "scripts": {
+    "qr": "node index.js"
+  }
+}
